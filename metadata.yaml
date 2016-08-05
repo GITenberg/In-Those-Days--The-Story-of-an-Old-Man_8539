@@ -1,0 +1,32 @@
+_repo: In-Those-Days--The-Story-of-an-Old-Man_8539
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jeshurun, George
+    gutenberg_agent_id: '40805'
+    url: http://www.gutenberg.org/2009/agents/40805
+creator:
+  author:
+    agent_name: Steinberg, Judah
+    aliases:
+    - Steinberg, Jehudah
+    - Shteinberg, Yehuda
+    birthdate: 1863
+    deathdate: 1908
+    gutenberg_agent_id: '2788'
+    url: http://www.gutenberg.org/2009/agents/2788
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Fiction'
+- !lcc 'PJ'
+- GITenberg
+title: 'In Those Days: The Story of an Old Man'
+url: http://www.gutenberg.org/ebooks/8539
