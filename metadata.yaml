@@ -1,10 +1,13 @@
 _repo: In-Those-Days--The-Story-of-an-Old-Man_8539
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Jeshurun, George
     gutenberg_agent_id: '40805'
     url: http://www.gutenberg.org/2009/agents/40805
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Steinberg, Judah
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '2788'
     url: http://www.gutenberg.org/2009/agents/2788
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8539#In-Those-Days--The-Story-of-an-Old-Man
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
